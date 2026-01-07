@@ -47,7 +47,7 @@ Implemented monitoring and cost optimization using AWS services:
 
 **Screenshot:**
 
-![EC2 Running](screenshots/01-ec2-instance-running.png)
+![EC2 Running](screenshots/1.png)
 
 **Key Learning:** t2.micro stays within Free Tier limits
 
@@ -68,7 +68,7 @@ Implemented monitoring and cost optimization using AWS services:
 
 **Screenshot:**
 
-![Stress Test](screenshots/02-stress-test-terminal.png)
+![Stress Test](screenshots/2.png)
 
 **Purpose:** Simulate real-world high CPU usage scenario
 
@@ -84,7 +84,7 @@ Implemented monitoring and cost optimization using AWS services:
 
 **Screenshot:**
 
-![CloudWatch CPU Spike](screenshots/03-cloudwatch-cpu-spike.png)
+![CloudWatch CPU Spike](screenshots/3.png)
 
 **Key Learning:** CloudWatch provides 5-minute interval metrics in Free Tier
 
@@ -103,9 +103,7 @@ Implemented monitoring and cost optimization using AWS services:
 
 **Screenshots:**
 
-![Alarm Created](screenshots/04-cloudwatch-alarm-created.png)
-
-![Email Notification](screenshots/05-alarm-email-notification.png)
+![Alarm Created](screenshots/4.png)
 
 **Key Learning:** Proactive monitoring helps identify issues before they impact users
 
@@ -123,7 +121,7 @@ Implemented monitoring and cost optimization using AWS services:
 
 **Screenshot:**
 
-![Cost Explorer](screenshots/06-cost-explorer-analysis.png)
+![Cost Explorer](screenshots/5.png)
 
 **Key Learning:** Regular cost monitoring is essential for cloud optimization
 
@@ -140,9 +138,9 @@ Implemented monitoring and cost optimization using AWS services:
 
 **Screenshots:**
 
-![S3 Bucket](screenshots/07-s3-bucket-created.png)
+![S3 Bucket](screenshots/6.png)
 
-![Lifecycle Rule](screenshots/08-s3-lifecycle-rule.png)
+![Lifecycle Rule](screenshots/7.png)
 
 **Cost Savings:**
 - S3 Standard: $0.023 per GB
@@ -160,7 +158,7 @@ Implemented monitoring and cost optimization using AWS services:
 
 **Screenshot:**
 
-![EC2 Stopped](screenshots/09-ec2-stopped.png)
+![EC2 Stopped](screenshots/8.png)
 
 **Key Learning:** Stopping unused resources demonstrates cost-conscious DevOps mindset
 
