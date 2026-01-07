@@ -1,5 +1,7 @@
 # 🔥 Application Performance & Cost Optimization Using AWS
 
+**By: Tanisha Kushwah**
+
 ## 📋 Real-World Problem
 
 A startup's website is experiencing:
@@ -227,4 +229,12 @@ top
 
 ---
 
+## 📫 Connect With Me
 
+**Tanisha Kushwah**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanisha-kushwah)
+
+📝 [Read my LinkedIn post about this project](YOUR_LINKEDIN_POST_LINK)
+
+---
