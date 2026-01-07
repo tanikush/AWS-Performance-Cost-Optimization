@@ -1,0 +1,28 @@
+# AWS Credentials (NEVER commit these!)
+*.pem
+*.key
+.aws/
+credentials
+config
+
+# OS Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Editor Files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Temporary Files
+*.tmp
+*.log
+*.bak
+
+# Large Files
+*.zip
+*.tar.gz
+*.iso
