@@ -35,6 +35,11 @@ Implemented monitoring and cost optimization using AWS services:
 
 ---
 
+## AWS performance and cost optimization diagram
+
+<img width="1536" height="1024" alt="AWS performance and cost optimization diagram" src="https://github.com/user-attachments/assets/edb21526-621c-4131-9f23-19e5f53edfdf" />
+
+
 ## 🛠️ Step-by-Step Implementation
 
 ### Step 1: Launched EC2 Instance
